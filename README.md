@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmEzMnl3aHphZnd4Y3V5eHh6aHphZnd4Y3V5eHh6aHphZnd4Y3V5eHh6/3oKIPEqDGUwdpYyJKw/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/[v1.Y2lkPTc5MGI3NjExbmEzMnl3aHphZnd4Y3V5eHh6aHphZnd4Y3V5eHh6aHphZnd4Y3V5eHh6/3oKIPEqDGUwdpYyJKw/giphy.gif](https://github.com/Ogola720/fake_news_app/blob/08ee99312d96aaff7eba57aef21535ae75277f5d/demo.gif)" width="100" />
 
   # 🕵️ Veritas AI | Fake News Detector
   
