@@ -6,16 +6,12 @@ import re
 import nltk
 import requests
 import plotly.graph_objects as go
-nltk.download('stopwords')
-nltk.download('punkt')
-nltk.download('wordnet')
 from streamlit_lottie import st_lottie
 from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 
 
 # 1. CONFIGURATION & ASSETS
-
 st.set_page_config(
     page_title="Veritas | AI Fake News Detector",
     page_icon="🕵️",
