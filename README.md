@@ -1,6 +1,10 @@
 <div align="center">
 
-  <img src="https://github.com/Ogola720/fake_news_app/blob/2f5130a76116798560391b391d7ea32ed84ae009/demo.mp4" width="100" />
+  <img src="https://github.com/Ogola720/fake_news_app/blob/2f5130
+
+https://github.com/user-attachments/assets/dba2a68d-9049-4546-862d-647c6414bffd
+
+a76116798560391b391d7ea32ed84ae009/demo.mp4" width="100" />
 
   # 🕵️ Veritas AI | Fake News Detector
   
