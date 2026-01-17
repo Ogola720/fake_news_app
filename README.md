@@ -97,12 +97,13 @@ python3 -m venv .venv
 source .venv/bin/activate
 </details><details><summary><b>3. Install Dependencies</b></summary>Bashpip install -r requirements.txt
 </details><details><summary><b>4. Run the App</b></summary>Bashstreamlit run app.py
-</details>📈 Model PerformanceThe PassiveAggressive Classifier was chosen for its superiority in large-scale text data.<div align="center">MetricScoreAccuracy93.4%Precision92.8%Recall93.1%</div>
+</details>📈 Model PerformanceThe PassiveAggressive Classifier was chosen for its superiority in large-scale text data.
+<div align="center">MetricScoreAccuracy93.4%Precision92.8%Recall93.1%</div>
 Note: The model was trained on the ISOT Fake News Dataset, achieving >90% accuracy on the test set.
 🔮 Future Improvements
-[ ] LSTM Integration: Incorporating Deep Learning (Long Short-Term Memory) for better context awareness.
-[ ] URL Analysis: Adding a feature to scrape and analyze news directly from a URL.
-[ ] Multi-language Support: Expanding the dataset to include non-English articles.
+LSTM Integration: Incorporating Deep Learning (Long Short-Term Memory) for better context awareness.
+URL Analysis: Adding a feature to scrape and analyze news directly from a URL.
+Multi-language Support: Expanding the dataset to include non-English articles.
 
 🤝 ContributingContributions are what make the open-source community such an amazing place to learn, inspire, and create.
 Any contributions you make are greatly appreciated.
