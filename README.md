@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="(https://github.com/Ogola720/fake_news_app/blob/08ee99312d96aaff7eba57aef21535ae75277f5d/demo.gif)" width="100" />
+  <img src="https://github.com/Ogola720/fake_news_app/blob/2f5130a76116798560391b391d7ea32ed84ae009/demo.mp4" width="100" />
 
   # 🕵️ Veritas AI | Fake News Detector
   
@@ -33,7 +33,7 @@ Unlike standard "black box" AI, Veritas includes an **Explainability Engine** th
 ## 🎥 Live Demo
 
 <div align="center">
-  <img src="demo.mp4" alt="Demo Animation" width="700" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.5);">
+  <img src="https://github.com/Ogola720/fake_news_app/blob/2f5130a76116798560391b391d7ea32ed84ae009/demo.mp4" alt="Demo Animation" width="700" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.5);">
   <br>
   <i>(Real-time credibility analysis with confidence scoring and keyword highlighting)</i>
 </div>
